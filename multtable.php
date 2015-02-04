@@ -80,5 +80,3 @@ if($max_multiplier == ''){
 </table>
 </body>
 </html>
-</body>
-</html>
