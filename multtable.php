@@ -1,6 +1,3 @@
-<?php error_reporting(E_ALL);
-ini_set('display_errors', '1');
-?>
 <!DOCTYPE html>
 <html>
 
@@ -57,7 +54,7 @@ if($max_multiplier == ''){
 ?>
 <table>
     <caption>Multiplication Table</caption>
-    <thead>
+    <tbody>
         <?php for($i = 0; $i < $tall; $i++){
             echo '<tr>';
             for ($j = 0; $j < $wide; $j++){
@@ -76,7 +73,7 @@ if($max_multiplier == ''){
             }
             echo '</tr>';
         }?>
-    </thead>
+    </tbody>
 </table>
 </body>
 </html>
