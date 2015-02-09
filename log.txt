@@ -1,0 +1,19 @@
+Start: Sun, 8 Feb 2015 20:00:29 -0500 
+End: Sun, 8 Feb 2015 21:28:29 -0500 
+Tasks: Worked on login page button/username field && Worked on redirecting to each other/back to main page
+
+Start: Thurs, 5 Feb 2015 19:34:29 -0500 
+End: Thurs, 5 Feb 2015 21:00:29 -0500 
+Tasks: Worked on Post/Get Requests
+
+Start: Wed, 4 Feb 2015 22:00:29 -0500 
+End: Wed, 4 Feb 2015 22:58:29 -0500 
+Tasks: Worked on and finished loopback & Updated format
+
+Start: Tue, 24 Jan 2015 19:02:54 -0500 
+End: Tue, 24 Jan 2015 21:40:54 -0500 
+Tasks: Added multiplication table &  Updated errors & Fixed format
+
+Start: Tue, 24 Jan 2015 12:50:29 -0500 
+End: Tue, 24 Jan 2015 13:15:29 -0500 
+Tasks: Added variables via URL in a GET request
